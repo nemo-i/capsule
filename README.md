@@ -9,7 +9,11 @@ Capsule is a simple and elegant dock GUI for Windows that allows you to listen t
 - Use VLC as the default media player
 - Customize the dock appearance and settings
 - Manage your downloads and playlists
+## Updates
+- Now it's allow drags
 
+## Upcoming Updates 
+- Save drag position
 ## Installation
 
 To use Capsule, you need to have the following tools installed on your machine:
