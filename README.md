@@ -12,6 +12,10 @@ Capsule is a simple and elegant dock GUI for Windows that allows you to listen t
 ## Updates
 - Now it's allow drags
 
+
+https://github.com/nemo-i/capsule/assets/133984357/e441f447-a342-4ad1-9244-0676b6cf18fe
+
+
 ## Upcoming Updates 
 - Save drag position
 ## Installation
